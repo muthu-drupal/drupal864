@@ -1,9 +1,0 @@
-uuid: 9c7f12b7-bb72-4227-8731-404255e31110
-langcode: en
-status: true
-dependencies: {  }
-name: Keywords
-vid: keywords
-description: 'Keywords are used to Blog Posts to make them SEO friendly.'
-hierarchy: 0
-weight: 0

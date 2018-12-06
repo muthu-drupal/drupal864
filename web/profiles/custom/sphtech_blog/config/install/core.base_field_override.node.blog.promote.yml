@@ -1,13 +1,12 @@
-uuid: 6d3ea3d3-9c00-4864-bc02-ee770cbef1ab
 langcode: en
 status: true
 dependencies:
   config:
-    - node.type.author
-id: node.author.promote
+    - node.type.blog
+id: node.blog.promote
 field_name: promote
 entity_type: node
-bundle: author
+bundle: blog
 label: 'Promoted to front page'
 description: ''
 required: false
