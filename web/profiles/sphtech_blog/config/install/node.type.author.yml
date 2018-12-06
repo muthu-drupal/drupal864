@@ -1,0 +1,11 @@
+uuid: 9003c010-c144-40e5-9b26-582e2f96df0e
+langcode: en
+status: true
+dependencies: {  }
+name: Author
+type: author
+description: 'Use Author for creating user profile.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

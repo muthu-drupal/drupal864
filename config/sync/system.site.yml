@@ -1,6 +1,6 @@
 uuid: 33369416-9dc9-4535-bc4b-5dd5e43a8d8b
-name: Minimal
-mail: admin@food.com
+name: 'Custom Installation Profile'
+mail: admin@test.com
 slogan: ''
 page:
   403: ''
